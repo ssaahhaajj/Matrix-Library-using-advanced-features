@@ -1,11 +1,15 @@
+### Gsoc 2019 (BOOST)
 ## boost-ublas-competency-test
+
 competency test for boost organisation under Gsoc'19.
 > other Gsoc students please do not copy it...
 
 ## Contents
-This contains total 3 folders
+
+**This contains total 3 folders :**
 
 # 1st_attempt
+
 This is my first attempt containing :
 
    -operator overloading 
@@ -15,6 +19,7 @@ This is my first attempt containing :
 It is a primitive version of implementation. You can see it or skip it.
 
 # 2nd_attempt
+
 This is my second attempt containing :
 
    -operator overloading
@@ -28,6 +33,7 @@ However it cannot calculate the combinations of operators.You can see it or skip
 
 
 # final_competency_test
+
 This is my final submission to Boost organistion Under Gsoc 2019, it contains :
  
    -operator overloading
@@ -40,3 +46,6 @@ This is my final submission to Boost organistion Under Gsoc 2019, it contains :
    
    
 It works under all conditions.
+
+
+> I hope you can see my hardwork. Hope to work with Boost this Summer and even further :smiley:
