@@ -1,8 +1,5 @@
-### Gsoc 2019 (BOOST)
-## boost-ublas-competency-test
-
-competency test for boost organisation under Gsoc'19.
-> other Gsoc students please do not copy it...
+### BOOST
+## boost-ublas
 
 ## Contents
 
@@ -46,6 +43,3 @@ This is my final submission to Boost organistion Under Gsoc 2019, it contains :
    
    
 It works under all conditions.
-
-
-> I hope you can see my hardwork. Hope to work with Boost this Summer and even further :smiley:
