@@ -31,15 +31,15 @@ However it cannot calculate the combinations of operators.You can see it or skip
 
 # final_competency_test
 
-This is my final submission to Boost organistion Under Gsoc 2019, it contains :
- 
-   -operator overloading
-   
-   -templates 
+This is my final and successful attempt. I used the following concepts:
    
    -expression templates
    
    -lazy evaluation 
+   
+   -operator overloading
+   
+   -templates 
    
    
 It works under all conditions.
