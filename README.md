@@ -29,7 +29,7 @@ This is my second attempt containing :
 However it cannot calculate the combinations of operators.You can see it or skip it.
 
 
-# final_matrix_library
+# final_attempt
 
 This is my final and successful attempt. I used the following concepts:
    
